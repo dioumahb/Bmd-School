@@ -22,9 +22,6 @@
 <body class="bg-gray-50 font-family-karla">
 
 
-
-
-
 <!-- Text Header -->
 <header class="w-full container mx-auto">
     <div class="flex flex-col items-center py-12">
